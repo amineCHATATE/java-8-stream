@@ -1,0 +1,8 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 209
+
+{"timeStamp":"2022-08-29 09:21:14","statusCode":200,"httpStatus":"OK","message":"Names of all employees who have joined after 2015","data":["Iqbal Hussain","Amelia Zoe","Nitin Joshi","Nicolus Den","Ali Baig"]}
+----

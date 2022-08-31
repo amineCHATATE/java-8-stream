@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+{"timeStamp":"2022-08-29 09:21:14","statusCode":200,"httpStatus":"OK","message":"Who is the oldest employee in the organization","data":{"id":6,"name":"Iqbal Hussain","age":43,"gender":"Male","department":"Security And Transport","yearOfJoining":2016,"salary":10500.0}}
+----

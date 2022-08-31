@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+{"timeStamp":"2022-08-29 09:21:13","statusCode":200,"httpStatus":"OK","message":"The average salary of each department","data":{"Product Development":31960.0,"Security And Transport":10750.25,"Sales And Marketing":11900.166666666666,"Infrastructure":15466.666666666666,"HR":23850.0,"Account And Finance":24150.0}}
+----

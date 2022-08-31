@@ -1,0 +1,8 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 507
+
+{"timeStamp":"2022-08-29 09:21:14","statusCode":200,"httpStatus":"OK","message":"List down the names of all employees in each department","data":{"Product Development":["Murali Gowda","Wang Liu","Nitin Joshi","Sanvi Pandey","Anuj Chettiar"],"Security And Transport":["Iqbal Hussain","Jaden Dough"],"Sales And Marketing":["Paul Niksui","Amelia Zoe","Nicolus Den"],"Infrastructure":["Martin Theron","Jasna Kaur","Ali Baig"],"HR":["Jiya Brein","Nima Roy"],"Account And Finance":["Manu Sharma","Jyothi Reddy"]}}
+----

@@ -1,0 +1,8 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 273
+
+{"timeStamp":"2022-08-29 09:21:14","statusCode":200,"httpStatus":"OK","message":"Who has the most working experience in the organization","data":{"id":7,"name":"Manu Sharma","age":35,"gender":"Male","department":"Account And Finance","yearOfJoining":2010,"salary":27000.0}}
+----

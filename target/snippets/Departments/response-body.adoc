@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+{"timeStamp":"2022-08-29 09:21:14","statusCode":200,"httpStatus":"OK","message":"Name of all departments in the organization","data":["HR","Sales And Marketing","Infrastructure","Product Development","Security And Transport","Account And Finance"]}
+----

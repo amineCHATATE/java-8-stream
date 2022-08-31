@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+{"timeStamp":"2022-08-29 09:21:14","statusCode":200,"httpStatus":"OK","message":"The average age of male and female employees","data":{"Male":30.181818181818183,"Female":27.166666666666668}}
+----

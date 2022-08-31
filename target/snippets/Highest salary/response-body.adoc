@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+{"timeStamp":"2022-08-29 09:21:14","statusCode":200,"httpStatus":"OK","message":"Details of highest paid employee","data":{"id":17,"name":"Anuj Chettiar","age":31,"gender":"Male","department":"Product Development","yearOfJoining":2012,"salary":35700.0}}
+----

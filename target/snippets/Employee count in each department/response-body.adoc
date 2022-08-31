@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+{"timeStamp":"2022-08-29 09:21:14","statusCode":200,"httpStatus":"OK","message":"Count the number of employees in each department","data":{"Product Development":5,"Security And Transport":2,"Sales And Marketing":3,"Infrastructure":3,"HR":2,"Account And Finance":2}}
+----
