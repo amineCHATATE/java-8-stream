@@ -63,7 +63,8 @@ public class OrdersStreamService {
                 .filter(o -> o.getCustomer().getTier() == 2)
                 .filter(o -> o.getOrderDate().compareTo(LocalDate.of(2021, 2, 1)) >= 0)
                 .filter(o -> o.getOrderDate().compareTo(LocalDate.of(2021, 4, 1)) <= 0)
-                .flatMap(o -> o.getProducts().stream())// to return products instead of orders
+                // to return products instead of orders
+                .flatMap(o -> o.getProducts().stream())
                 .collect(Collectors.toList());
     }
 

@@ -7,14 +7,13 @@ import org.slf4j.LoggerFactory;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 /**
  * @author Amine Chaatte
  * @version 1.0
- * @date 07/03/2022 15:10
+ * @date 08/03/2022 10:10
  * @description
  */
 @Component

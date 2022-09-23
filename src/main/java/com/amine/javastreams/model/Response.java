@@ -16,7 +16,7 @@ import static com.fasterxml.jackson.annotation.JsonInclude.Include.NON_NULL;
 /**
  * @author Amine Chatate
  * @version 1.0
- * @date 07/03/2022 15:10
+ * @date 07/03/2022 15:22
  * @description Response class
  */
 @Data

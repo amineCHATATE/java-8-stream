@@ -22,7 +22,7 @@ import static org.springframework.http.HttpStatus.OK;
 /**
  * @author Amine Chatate
  * @version 1.0
- * @date 07/03/2022 15:10
+ * @date 07/03/2022 16:01
  * @description
  */
 @RestController

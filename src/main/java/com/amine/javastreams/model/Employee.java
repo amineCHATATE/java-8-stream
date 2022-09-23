@@ -10,7 +10,7 @@ import javax.persistence.*;
 /**
  * @author Amine Chatate
  * @version 1.0
- * @date 07/03/2022 15:10
+ * @date 07/03/2022 15:22
  * @description
  */
 @Entity
